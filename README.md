@@ -1,4 +1,4 @@
-# Sai Dinesh - Personal portfolio
+# Personal portfolio
 
 <!-- ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
 ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
@@ -10,8 +10,8 @@ It is a fully responsive personal portfolio website, responsive for all devices,
 
 ## Demo
 
-![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+<!-----![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
+![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")---->
 
 ## Prerequisites
 
@@ -26,13 +26,13 @@ To install **portfolio**, follow these steps:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/vamshikumar25/saidinesh-portfolio.git
+sudo git clone https://github.com/VamshiKumar-25/personal-portfolio.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/vamshikumar25/saidinesh-portfolio.git
+git clone https://github.com/VamshiKumar-25/personal-portfolio.git
 ```
 
 ## Contact
